@@ -1,6 +1,6 @@
 {
-"url": "https://raw.githubusercontent.com/LoboBOB12/improved-guacamole/main/",
-"urlSecond": "gson.gson",
+"url": "https://barebuha.space/",
+"urlSecond": "ZMmmr8",
 "randomValue": "12",
-"flag": "0"
+"flag": "1"
 }
